@@ -1,10 +1,10 @@
 <?php
 
-namespace darcorm\fullcalendar;
+namespace edofre\fullcalendar;
 
 /**
  * Class MomentAsset
- * @package darcorm\fullcalendar
+ * @package edofre\fullcalendar
  */
 class MomentAsset extends \yii\web\AssetBundle
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace darcorm\fullcalendar;
+namespace edofre\fullcalendar;
 
 /**
  * Class Fullcalendar
- * @package darcorm\fullcalendar
+ * @package edofre\fullcalendar
  */
 class Fullcalendar extends \yii\base\Widget
 {

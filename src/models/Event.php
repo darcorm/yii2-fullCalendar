@@ -1,10 +1,10 @@
 <?php
 
-namespace darcorm\fullcalendar\models;
+namespace edofre\fullcalendar\models;
 
 /**
  * Class Event
- * @package darcorm\fullcalendar\models
+ * @package edofre\fullcalendar\models
  */
 class Event extends CalendarModel
 {

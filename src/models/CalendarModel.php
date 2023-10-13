@@ -1,10 +1,10 @@
 <?php
 
-namespace darcorm\fullcalendar\models;
+namespace edofre\fullcalendar\models;
 
 /**
  * Class CalendarModel
- * @package darcorm\fullcalendar\models
+ * @package edofre\fullcalendar\models
  */
 class CalendarModel extends \yii\base\Model
 {

@@ -4,7 +4,7 @@ namespace darcorm\fullcalendar;
 
 /**
  * Class ThemeAsset
- * @package darcorm\fullcalendar
+ * @package edofre\fullcalendar
  */
 class ThemeAsset extends \yii\web\AssetBundle
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace edofre\fullcalendar;
+namespace darcorm\fullcalendar;
 
 /**
  * Class PrintAsset
- * @package edofre\fullcalendar
+ * @package darcorm\fullcalendar
  */
 class PrintAsset extends \yii\web\AssetBundle
 {

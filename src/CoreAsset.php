@@ -1,10 +1,10 @@
 <?php
 
-namespace edofre\fullcalendar;
+namespace darcorm\fullcalendar;
 
 /**
  * Class CoreAsset
- * @package edofre\fullcalendar
+ * @package darcorm\fullcalendar
  */
 class CoreAsset extends \yii\web\AssetBundle
 {
@@ -22,8 +22,8 @@ class CoreAsset extends \yii\web\AssetBundle
     /** @var  array List of the dependencies this assets bundle requires */
     public $depends = [
         'yii\web\YiiAsset',
-        'edofre\fullcalendar\MomentAsset',
-        'edofre\fullcalendar\PrintAsset',
+        'darcorm\fullcalendar\MomentAsset',
+        'darcorm\fullcalendar\PrintAsset',
     ];
     /**
      * @var  boolean

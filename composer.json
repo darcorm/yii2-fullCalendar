@@ -1,11 +1,11 @@
 {
-  "name": "edofre/yii2-fullcalendar",
-  "description": "Yii2 widget for fullcalendar",
+  "name": "darcorm/yii2-fullcalendar",
+  "description": "Yii2 widget for fullcalendar based on darcorm/yii2-fullcalendar",
   "require": {
-    "php": ">=5.5.0",
+    "php": ">=7.4.0",
     "yiisoft/yii2": ">=2.0.9",
     "yiisoft/yii2-jui": ">=2.0.6",
-    "npm-asset/fullcalendar": "v3.8.0"
+    "npm-asset/fullcalendar": "v6.1.9"
   },
   "keywords": [
     "fullcalendar",
@@ -13,18 +13,18 @@
     "event",
     "calendar"
   ],
-  "homepage": "https://github.com/edofre/yii2-fullcalendar",
+  "homepage": "https://github.com/darcorm/yii2-fullcalendar",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
     {
-      "name": "Edo Freriks",
-      "email": "edofre@gmail.com"
+      "name": "Darrell Cormier",
+      "email": "dcormier@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "edofre\\fullcalendar\\": "src"
+      "darcorm\\fullcalendar\\": "src"
     }
   },
   "extra": {
